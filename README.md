@@ -30,10 +30,7 @@ Windows için client-server, şifreli ve onaylı bağlantı sistemi.
 - Herhangi sorun olursa Python kurulumu ve paketleri kontrol edin.
 - Bu uygulama herhangi bir zaralı yazılım içermemektedir ve yasadışı faliyetlerle kullanılmamalıdır kullanımında ve sonuçlardan şirketimiz sorumlu değildir.
 - Oluşturulan key ve sertifika güvenli iletişim için gereklidir .
-
--
---
----
+- Server2.exe'nin Server.exe ile tek farkı içerisine kullanıcı arayüzü eklenmiştir.
 
 
 
