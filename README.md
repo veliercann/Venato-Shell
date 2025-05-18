@@ -1,4 +1,4 @@
-# Proje Adı
+# exe
 
 Windows için client-server, şifreli ve onaylı bağlantı sistemi.
 
