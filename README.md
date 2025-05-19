@@ -31,6 +31,7 @@ Windows için client-server, şifreli ve onaylı bağlantı sistemi.
 - Bu uygulama herhangi bir zaralı yazılım içermemektedir ve yasadışı faliyetlerle kullanılmamalıdır kullanımında ve sonuçlardan şirketimiz sorumlu değildir.
 - Oluşturulan key ve sertifika güvenli iletişim için gereklidir .
 - Server2.exe'nin Server.exe ile tek farkı içerisine kullanıcı arayüzü eklenmiştir.
+- Antivirüsünüz bu uygulamayı virüs olarak algılayabilir bu durumda korkmanıza gerek yok tamamıyla güvenlidir uygulama kodlarını da zaten depoda paylaştık kontrol edebilirsiniz.
 
 
 
