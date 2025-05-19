@@ -16,7 +16,7 @@ Windows için client-server, şifreli ve onaylı bağlantı sistemi.
 ## Kurulum
 
 1. Python yüklü değilse [Python'un resmi sitesinden](https://www.python.org/downloads/windows/) indirip kur.
-2. `requirements.txt` dosyasını kullanarak gerekli paketleri kur (sadece `colorama` var):
+2. `requirements.txt` dosyasını kullanarak gerekli paketleri kur.
 3. `server.exe` veya `client.exe` dosyasını çalıştır.
 
 ## Kullanım
