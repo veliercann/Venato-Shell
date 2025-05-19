@@ -1,4 +1,4 @@
-# exe
+# Venato Shell
 
 Windows için client-server, şifreli ve onaylı bağlantı sistemi.
 
